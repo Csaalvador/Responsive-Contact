@@ -1,17 +1,10 @@
-# Página de Contato Responsiva 💼📞📧
-
-Este repositório contém uma página de contato responsiva desenvolvida por Cauã Salvador.
 
 ## Tecnologias Utilizadas 🚀
-
 - HTML5
 - CSS3
 
 ## Recursos e Funcionalidades 🎯💡
-
 - Design responsivo 🌐📱
-- Formulário de contato funcional ✉️📝
-- Validação de campos ✔️✅
 - Layout atraente e intuitivo 🎨💫
 
 ## Como Usar 📋🔧
