@@ -6,7 +6,6 @@ Este repositório contém uma página de contato responsiva desenvolvida por Cau
 
 - HTML5
 - CSS3
-- JavaScript
 
 ## Recursos e Funcionalidades 🎯💡
 
