@@ -11,7 +11,7 @@
 body {
   min-height: 100vh;
   width: 100%;
-  background: linear-gradient(to bottom, #5029bc, #D9B700);
+  background: #d0d0d0;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -19,7 +19,7 @@ body {
 
 main {
   width: 85%;
-  background: linear-gradient(to bottom, #D9B700, #5029bc);
+  background: #f3f3f3;
   border-radius: 6px;
   padding: 20px 60px 30px 40px;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
@@ -60,7 +60,7 @@ main .content .left-side {
 
 .content .left-side .details i {
   font-size: 30px;
-  color: #D9B700;
+  color: #19b5a5;
   margin-bottom: 10px;
 }
 
@@ -124,7 +124,7 @@ main .content .right-side {
   border: none;
   padding: 8px 16px;
   border-radius: 6px;
-  background: #D9B700;
+  background: #19b5a5;
   cursor: pointer;
   transition: all 0.3s ease;
 }
